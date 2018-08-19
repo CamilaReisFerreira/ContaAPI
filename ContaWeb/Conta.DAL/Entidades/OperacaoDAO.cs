@@ -13,7 +13,7 @@ namespace Conta.DAL.Entidades
     {
         [Key]
         public long ID_Operacao { get; set; }
-        public char Tipo_Operacao { get; set; }
+        public string Tipo_Operacao { get; set; }
         public Decimal Valor { get; set; }
         public ContaDAO Conta { get; set; }
     }

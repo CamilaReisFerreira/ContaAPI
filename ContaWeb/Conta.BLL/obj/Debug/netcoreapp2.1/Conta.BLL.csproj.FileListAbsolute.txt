@@ -7,3 +7,11 @@ D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\obj\Debug\netcoreapp2.1\Conta.BLL.
 D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\obj\Debug\netcoreapp2.1\Conta.BLL.AssemblyInfo.cs
 D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\obj\Debug\netcoreapp2.1\Conta.BLL.dll
 D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\obj\Debug\netcoreapp2.1\Conta.BLL.pdb
+D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\bin\Debug\netcoreapp2.1\Conta.DAL.dll
+D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\bin\Debug\netcoreapp2.1\Conta.DTO.dll
+D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\bin\Debug\netcoreapp2.1\Conta.DAL.pdb
+D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\bin\Debug\netcoreapp2.1\Conta.DTO.pdb
+D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\obj\Debug\netcoreapp2.1\Conta.BLL.csproj.CopyComplete

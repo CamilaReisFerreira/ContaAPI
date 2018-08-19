@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Conta.DAL\Conta.DAL.csproj" />
+    <ProjectReference Include="..\Conta.DTO\Conta.DTO.csproj" />
+  </ItemGroup>
+
 </Project>
