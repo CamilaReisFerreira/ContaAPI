@@ -1,0 +1,17 @@
+D:\Estudo\Elliot Tech Test\ContaWeb\ContaWeb\bin\Debug\netcoreapp2.1\ContaWeb.deps.json
+D:\Estudo\Elliot Tech Test\ContaWeb\ContaWeb\bin\Debug\netcoreapp2.1\ContaWeb.runtimeconfig.json
+D:\Estudo\Elliot Tech Test\ContaWeb\ContaWeb\bin\Debug\netcoreapp2.1\ContaWeb.runtimeconfig.dev.json
+D:\Estudo\Elliot Tech Test\ContaWeb\ContaWeb\bin\Debug\netcoreapp2.1\ContaWeb.dll
+D:\Estudo\Elliot Tech Test\ContaWeb\ContaWeb\bin\Debug\netcoreapp2.1\ContaWeb.pdb
+D:\Estudo\Elliot Tech Test\ContaWeb\ContaWeb\bin\Debug\netcoreapp2.1\Conta.DAL.dll
+D:\Estudo\Elliot Tech Test\ContaWeb\ContaWeb\bin\Debug\netcoreapp2.1\Conta.DAL.pdb
+D:\Estudo\Elliot Tech Test\ContaWeb\ContaWeb\obj\Debug\netcoreapp2.1\ContaWeb.csprojAssemblyReference.cache
+D:\Estudo\Elliot Tech Test\ContaWeb\ContaWeb\obj\Debug\netcoreapp2.1\ContaWeb.csproj.CoreCompileInputs.cache
+D:\Estudo\Elliot Tech Test\ContaWeb\ContaWeb\obj\Debug\netcoreapp2.1\ContaWeb.RazorAssemblyInfo.cache
+D:\Estudo\Elliot Tech Test\ContaWeb\ContaWeb\obj\Debug\netcoreapp2.1\ContaWeb.RazorAssemblyInfo.cs
+D:\Estudo\Elliot Tech Test\ContaWeb\ContaWeb\obj\Debug\netcoreapp2.1\ContaWeb.AssemblyInfoInputs.cache
+D:\Estudo\Elliot Tech Test\ContaWeb\ContaWeb\obj\Debug\netcoreapp2.1\ContaWeb.AssemblyInfo.cs
+D:\Estudo\Elliot Tech Test\ContaWeb\ContaWeb\obj\Debug\netcoreapp2.1\ContaWeb.RazorTargetAssemblyInfo.cache
+D:\Estudo\Elliot Tech Test\ContaWeb\ContaWeb\obj\Debug\netcoreapp2.1\ContaWeb.csproj.CopyComplete
+D:\Estudo\Elliot Tech Test\ContaWeb\ContaWeb\obj\Debug\netcoreapp2.1\ContaWeb.dll
+D:\Estudo\Elliot Tech Test\ContaWeb\ContaWeb\obj\Debug\netcoreapp2.1\ContaWeb.pdb

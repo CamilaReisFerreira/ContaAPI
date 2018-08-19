@@ -1,0 +1,9 @@
+D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\bin\Debug\netcoreapp2.1\Conta.BLL.deps.json
+D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\bin\Debug\netcoreapp2.1\Conta.BLL.dll
+D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\bin\Debug\netcoreapp2.1\Conta.BLL.pdb
+D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\obj\Debug\netcoreapp2.1\Conta.BLL.csprojAssemblyReference.cache
+D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\obj\Debug\netcoreapp2.1\Conta.BLL.csproj.CoreCompileInputs.cache
+D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\obj\Debug\netcoreapp2.1\Conta.BLL.AssemblyInfoInputs.cache
+D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\obj\Debug\netcoreapp2.1\Conta.BLL.AssemblyInfo.cs
+D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\obj\Debug\netcoreapp2.1\Conta.BLL.dll
+D:\Estudo\Elliot Tech Test\ContaWeb\Conta.BLL\obj\Debug\netcoreapp2.1\Conta.BLL.pdb
